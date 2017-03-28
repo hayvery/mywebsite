@@ -16,7 +16,11 @@
     font-family: inherit;
     color: black;
     font-size: 20px;
+    font-size: 50px;
     background-color: #FFCCFF;
+    width: 400px;
+    height: 100px;
+    margin: 20px;
 
 }
 
